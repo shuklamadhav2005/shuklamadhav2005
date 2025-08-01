@@ -43,7 +43,10 @@
 - 📧 Email: `shuklamadhav2005@gmail.com`
 
 ---
+### 📈 LeetCode Stats
 
+- 🔢 Solved problems on [LeetCode](https://leetcode.com/u/Madhav_Shukla_495/)
+---
 ### 📊 GitHub Stats
 
 <p align="center">

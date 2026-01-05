@@ -32,7 +32,7 @@
   A task management app to add, complete, and delete tasks easily.
 ---  
 ### 🏆 Hackathon Projects
-- 🚀 [Hackathon Project Name](repo-link) – Role: Frontend / Backend / API
+- 🚀 [Hackathon Project Name](https://github.com/darshan-chauhan-089/DayFlow-HRMS-OdooXGCET-2026) – Role: Frontend / Backend / API
 
 ---
 - 🌐 [MAD's Personal Portfolio](https://portfoliobymad.netlify.app/) — Fully responsive portfolio site built with HTML, CSS, and JS

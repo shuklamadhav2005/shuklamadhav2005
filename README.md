@@ -18,7 +18,7 @@
 
 ### 📌 Projects
 
-- 🧾 [Resume Builder App](https://freeresumebuildbymad.netlify.app/) — Form-based resume generator with live preview and PDF support
+- 🧾 [Resume Builder App](https://github.com/shuklamadhav2005/Resume-builder-site) — Form-based resume generator with live preview and PDF support
 -  🎮 [Simon Says Game](https://simongamebymad.netlify.app/)  
   A fun memory-based game built with HTML, CSS, and JavaScript.
 

@@ -17,8 +17,12 @@
 ---
 
 ### 📌 Projects
-
-- 🧾 [Resume Builder App](https://github.com/shuklamadhav2005/Resume-builder-site) — Form-based resume generator with live preview and PDF support
+- 🏢 [Visitor Management System](https://github.com/shuklamadhav2005/Visitor_Management_System)
+  Secure visitor entry and gate-pass management system with Admin, Guard, and Resident dashboards, visitor tracking, approval workflow, and report generation.
+  
+- 🧾 [Resume Builder App](https://github.com/shuklamadhav2005/Resume-builder-site)
+  Form-based resume generator with live preview and PDF support
+  
 -  🎮 [Simon Says Game](https://simongamebymad.netlify.app/)  
   A fun memory-based game built with HTML, CSS, and JavaScript.
 
